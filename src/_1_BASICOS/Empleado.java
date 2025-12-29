@@ -1,9 +1,5 @@
 package _1_BASICOS;
 
-/**
- *
- * @author ivanc
- */
 public class Empleado {
     
     private String nombre;
