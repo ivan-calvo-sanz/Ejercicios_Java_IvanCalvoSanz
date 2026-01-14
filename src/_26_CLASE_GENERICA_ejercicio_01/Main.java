@@ -1,4 +1,4 @@
-package _21_CLASE_GENERICA_ejercicio_01;
+package _26_CLASE_GENERICA_ejercicio_01;
 
 public class Main {
 

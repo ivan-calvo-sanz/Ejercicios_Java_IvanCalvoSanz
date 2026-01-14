@@ -1,4 +1,4 @@
-package _21_CLASE_GENERICA_ejercicio_01;
+package _26_CLASE_GENERICA_ejercicio_01;
 
 // https://www.youtube.com/watch?v=rtHOpAXF1Kc&list=PLaxZkGlLWHGX3nqyjMv0wjFHkhCpNxaf4&index=95
 /**

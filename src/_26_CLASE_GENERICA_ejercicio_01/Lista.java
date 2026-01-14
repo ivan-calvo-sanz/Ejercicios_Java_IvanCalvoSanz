@@ -1,4 +1,4 @@
-package _21_CLASE_GENERICA_ejercicio_01;
+package _26_CLASE_GENERICA_ejercicio_01;
 
 // CLASE GENERICA "T" representa a tipo (el tipo nos lo dan a posteriori)
 public class Lista<T> implements Listable<T> {
