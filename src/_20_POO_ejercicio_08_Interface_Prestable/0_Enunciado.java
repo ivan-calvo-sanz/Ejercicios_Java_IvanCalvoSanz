@@ -1,7 +1,7 @@
 package _20_POO_ejercicio_08_Interface_Prestable;
 
 // https://www.youtube.com/watch?v=zXp7jL6cX0c&list=PLaxZkGlLWHGX3nqyjMv0wjFHkhCpNxaf4&index=90
-/**
+/*
 CREA UNA INTERFAZ Prestable:
 Tendrá los siguientes métodos:
 - prestar
